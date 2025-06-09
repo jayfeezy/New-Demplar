@@ -1,0 +1,86 @@
+Ah — sounds like your AI script is correctly discovering image URLs, but when it tries to pass that data back to the client-side (e.g., admin panel, frontend, or UI in Replit), it’s returning null instead of the actual array.
+
+Here’s how to debug and fix this cleanly, depending on how you're structuring things:
+
+
+---
+
+🔍 Most Common Causes (with Fixes)
+
+1. Asynchronous issues (Promise not resolving properly)
+
+If you're using JavaScript (Node.js), check if you're properly returning a Promise or using await.
+
+Wrong:
+
+let result;
+page.evaluate(() => {
+  return urls; // this might not be awaited
+});
+console.log(result); // null or undefined
+
+Fix:
+
+let result = await page.evaluate(() => {
+  return window.discoveredUrls; // or however you're storing it
+});
+console.log(result);
+
+
+---
+
+2. Data not being returned from the function or handler
+
+If it's part of an API or function call, make sure you’re actually returning the value.
+
+Wrong:
+
+function getUrls() {
+  page.evaluate(() => {
+    return urls;
+  });
+}
+
+Fix:
+
+async function getUrls() {
+  return await page.evaluate(() => {
+    return urls;
+  });
+}
+
+
+---
+
+3. Client-side can’t access the data due to scoping
+
+If you're logging null from the frontend, make sure your backend route or message handler is returning the data after the async operation finishes.
+
+// Backend/worker logic
+let discoveredUrls = await findImageUrls();
+res.json({ urls: discoveredUrls }); // ✅ do this
+
+// Or if you're using window.postMessage
+window.postMessage({ type: "urls-found", payload: discoveredUrls }, "*");
+
+
+---
+
+✅ What You Should Tell the AI Coder (Plain Instructions)
+
+> Fix the code so that the array of discovered image URLs is properly returned or passed to the frontend/admin panel. Right now, null is being returned instead. Make sure:
+
+Any evaluate() or scraping logic is properly awaited
+
+The result is returned from the main function
+
+The data is passed correctly to wherever the display or next logic happens (UI, logging, saving, etc.)
+
+
+
+
+
+---
+
+If you paste your current function or code structure here, I can pinpoint exactly where the null is happening and fix it for you.
+

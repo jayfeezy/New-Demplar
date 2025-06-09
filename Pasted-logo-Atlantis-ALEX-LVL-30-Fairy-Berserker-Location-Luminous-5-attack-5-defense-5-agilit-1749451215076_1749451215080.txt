@@ -1,0 +1,1182 @@
+logo
+Atlantis
+ALEX
+LVL
+
+30
+
+Fairy Berserker
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+INSPIRED
+LVL
+
+11
+
+El Shooter
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+CERTIFIEDLOVERBULL
+LVL
+
+16
+
+Korathax, Golden Titan
+
+Location
+
+Labyrinth
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Tommy
+LVL
+
+17
+
+Flame Assasin
+
+Location
+
+Compression of Time
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+True Warrior
+LVL
+
+10
+
+Ul’Zareth, Crown of the Dying Suns
+
+Location
+
+Labyrinth
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+DENOJAH
+LVL
+
+26
+
+PIP CAPTAIN
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Sir Nemo [AI]
+LVL
+
+31
+
+Demplar Samurai
+
+Location
+
+Compression of Time
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+MDK
+LVL
+
+11
+
+Pond Enigma
+
+Location
+
+Labyrinth
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+American Hearts
+LVL
+
+9
+
+Phunk Knight
+
+Location
+
+Library
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Chair
+LVL
+
+14
+
+Phunk Knight
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+JEST
+LVL
+
+12
+
+Jester
+
+Location
+
+Watchtower
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Meggy
+LVL
+
+17
+
+Counter Culture 0 Martial Artist
+
+Location
+
+Thieves Den
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+W!¢KغD
+LVL
+
+10
+
+Jerks Adventurer
+
+Location
+
+Library
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Ponderer
+LVL
+
+11
+
+Steampunk
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+2NA
+LVL
+
+8
+
+Mercenary
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+🩸Ǝ
+LVL
+
+18
+
+Vampire Ninja
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Yoss0x
+LVL
+
+12
+
+Phunk Knight
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Sizzler
+LVL
+
+12
+
+Comrade Knight
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+MCO WOLF (λ2)
+LVL
+
+23
+
+Bloodmoon Reaver
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+IFiHAD
+LVL
+
+10
+
+Mystic Troubadour
+
+Location
+
+Shmiffin Shmoffin Quarry
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Aft3rparty
+LVL
+
+10
+
+Mfpurr Knight
+
+Location
+
+TimeLord’s Mansion
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+ThisNthat
+LVL
+
+13
+
+Negotiator
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Nexus Knight
+LVL
+
+13
+
+Tank
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Vucc
+LVL
+
+10
+
+Water Mage
+
+Location
+
+Tavern
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Toss & Boerboel
+LVL
+
+10
+
+Tank
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+ArtofKula
+LVL
+
+11
+
+Disco Mage
+
+Location
+
+Library
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Pylons
+LVL
+
+20
+
+Phunk Knight
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Dustin The Singing Monk
+LVL
+
+15
+
+Luminara
+
+Location
+
+Meltdown Island
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Cary
+LVL
+
+20
+
+Phunk Knight
+
+Location
+
+Great Stone Quarry
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Lasagna Techno Pirate
+LVL
+
+25
+
+Rogue
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+WhiteCrypto
+LVL
+
+5
+
+Ninja
+
+Location
+
+Watchtower
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Sparrow (λ2)
+LVL
+
+41
+
+Training +5%
+Solo Warden
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Lady Rangiku (λ2)
+LVL
+
+40
+
+Training +5%
+Blade Healer
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+4€¥€$
+LVL
+
+12
+
+Light Mage
+
+Location
+
+Impala Mountains
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Mr.Helm
+LVL
+
+30
+
+Tank
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+DizyD
+LVL
+
+30
+
+Time Mage
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+MegaTron Chicken
+LVL
+
+32
+
+Magic Chicken
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Naitsirk Comrade Phunk
+LVL
+
+15
+
+Healer
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Victor Smash
+LVL
+
+25
+
+Brawler
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+JayFeezy FrostFire
+LVL
+
+24
+
+Arcane Mage
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Von The Techsavvy
+LVL
+
+37
+
+Time Traveler
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+yoTj telluhwat Knight
+LVL
+
+11
+
+Adventurer
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Will Billy The Hill Billy
+LVL
+
+23
+
+Stormcloak Farmer
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+The Fork Knight (λ2)
+LVL
+
+52
+
+Time Traveler
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Ranger The Potato Knight
+LVL
+
+15
+
+Tank
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+KOLD DRAGON
+LVL
+
+32
+
+Dragon Knight
+
+Location
+
+Luminous
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Raptor
+LVL
+
+12
+
+Mythical Beast
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Sumdog
+LVL
+
+8
+
+Knight
+
+Location
+
+Badlands
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Paul The Blacksmith
+LVL
+
+23
+
+Blacksmith
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+AGZ Mage Thief *GLITCH
+LVL
+
+13
+
+Portal User
+
+Location
+
+Sewers
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Pauly
+LVL
+
+10
+
+Mysterious
+
+Location
+
+Compression of Time
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Classmomma
+LVL
+
+5
+
+OG Miner
+
+Location
+
+Great Stone Quarry
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Magpie (λ2)
+LVL
+
+16
+
+Light Mage
+
+Location
+
+Tavern
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+WTF_INATRUCK
+LVL
+
+18
+
+Knight
+
+Location
+
+ShmiffinShmoffin Marsh
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Unknown Assasin
+LVL
+
+15
+
+Ninja
+
+Location
+
+Thieves Den
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Mitchel The Brave (λ2)
+LVL
+
+27
+
+Seasoned Adventurer
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Matt Furie
+LVL
+
+1
+
+Illustrator
+
+Location
+
+Compression of Time
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pepe
+Atlantis
+YOUNG HOVER
+LVL
+
+14
+
+Emoji Ninja
+
+Location
+
+Library
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+The Fork Knight (λ2)
+LVL
+
+44
+
+Training +5%
+Demplar
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Jay Vampiric
+LVL
+
+14
+
+Vampire Ninja
+
+Location
+
+Badlands
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pepe
+Atlantis
+BrewLee
+LVL
+
+25
+
+Martial Artist
+
+Location
+
+Compression of Time
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Sir Quiet
+LVL
+
+17
+
+Undead Phunk Knight
+
+Location
+
+Impala Mountains
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Unempyd
+LVL
+
+18
+
+Knight Captain
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+IAMDON
+LVL
+
+1
+
+Support
+
+Location
+
+Impala Mountains
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Outsider
+LVL
+
+7
+
+Spirit Dragoon Phunk
+
+Location
+
+Badlands
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Unknown [NPC]
+LVL
+
+800
+
+Demplar
+
+Location
+
+Compression of Time
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+MJ❀𝓓𝓮𝔰ιɠɳ
+LVL
+
+4
+
+Druid
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Daniel0x
+LVL
+
+32
+
+Training +5%
+Reaper
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+JLEE
+LVL
+
+12
+
+Viking Bard
+
+Location
+
+Library
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+RhiannonNft
+LVL
+
+2
+
+Training +5%
+Knight
+
+Location
+
+Library
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pork
+Atlantis
+Don Dennis
+LVL
+
+7
+
+Demplar
+
+Location
+
+Tavern
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Sativa
+LVL
+
+7
+
+Healer
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Breathe (λ2)
+LVL
+
+29
+
+Training +5%
+Water Mage
+
+Location
+
+Dark Cave of Unknown
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Atlantis
+LVL
+
+1
+
+Training +5%
+Crafting +5%
+Demplar
+
+Location
+
+Tavern
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Captain Cohiba *GLITCH
+LVL
+
+17
+
+Training +5%
+Knight Captain
+
+Location
+
+Wakambu
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Rachel (λ2)
+LVL
+
+29
+
+Training +5%
+Crafting +5%
+Ninja Archivist
+
+Location
+
+Kingdom
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Demplar
+Atlantis
+Versteckt
+LVL
+
+1
+
+Submarine Builder
+
+Location
+
+Exit of Waterways
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+wPond
+Atlantis
+Rolla
+LVL
+
+1
+
+Demplar
+
+Location
+
+Enchanted Forest
+
++5% attack, +5% defense, +5% agility, +5% critical, +5% luck, +5% magic defense
+
+Pepe

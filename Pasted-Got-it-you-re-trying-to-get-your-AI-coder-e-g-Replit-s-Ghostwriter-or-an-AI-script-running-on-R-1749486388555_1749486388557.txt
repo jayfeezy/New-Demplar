@@ -1,0 +1,101 @@
+Got it — you're trying to get your AI coder (e.g., Replit’s Ghostwriter or an AI script running on Replit) to:
+
+1. Go to a specific URL: https://knightsofdegen.netlify.app/
+
+
+2. Click on a character card.
+
+
+3. In the top-right of the popup, click "Open in new tab" (this opens the image).
+
+
+4. Get the image URL or download the image.
+
+
+5. Use that image (e.g., for further processing).
+
+
+
+Most AI coders can't "see" or simulate user actions like clicking unless you're using a headless browser or automation tool like Puppeteer (Node.js) or Selenium (Python). You’ll need to guide it like you’re writing a bot or scraper.
+
+Here’s how to phrase it in clear AI-coder language using Python + Selenium:
+
+
+---
+
+✅ Use this exact instruction:
+
+> Write a Python script using Selenium that:
+
+1. Goes to https://knightsofdegen.netlify.app/
+
+
+2. Waits for the page to load fully
+
+
+3. Clicks on the first character card
+
+
+4. In the popup, finds and clicks the button or link in the top-right corner that opens the image in a new tab
+
+
+5. Switches to the new tab
+
+
+6. Gets the image URL from the new tab and prints it
+
+
+7. Optionally: downloads the image and saves it as a file
+
+
+
+
+
+
+---
+
+If using Node.js + Puppeteer, the equivalent would be:
+
+> Write a Puppeteer script that:
+
+1. Navigates to https://knightsofdegen.netlify.app/
+
+
+2. Waits for page to load
+
+
+3. Clicks the first character card
+
+
+4. Finds the "open in new tab" icon or button in the top right and clicks it
+
+
+5. Waits for the new tab to open, switches to it
+
+
+6. Extracts the image URL and logs it
+
+
+7. Optionally downloads the image
+
+
+
+
+
+
+---
+
+⚠️ Things to mention if it still fails:
+
+The site is built with dynamic elements (likely React), so delays or explicit waits are important (wait_for_element, page.waitForSelector, etc.).
+
+The "open in new tab" may be an anchor tag or use JS to create a new tab — AI needs to handle tab switching.
+
+The image may have a CDN URL like https://...cloudfront.net/... — that’s the URL to extract.
+
+
+
+---
+
+If you want, I can also write the full Selenium or Puppeteer script for you. Just tell me which one you're using (Python or Node.js).
+
