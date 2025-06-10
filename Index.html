@@ -1,0 +1,100 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demplar Stat Tracker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1e1e1e;
+      color: #fff;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #2e2e2e;
+      border-radius: 10px;
+      padding: 20px;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .username {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .username a {
+      color: #1da1f2;
+      text-decoration: none;
+    }
+    .stat {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 10px 0;
+    }
+    .btns button {
+      margin: 0 5px;
+      padding: 5px 10px;
+      font-size: 16px;
+    }
+    .footer {
+      margin-top: 30px;
+      text-align: center;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Demplar Stat Tracker</h1>
+    <div class="username">
+      <strong>Master View</strong> | <a href="https://twitter.com/jayfeezy" target="_blank">@JayFeezy</a>
+    </div><div class="stat">
+  <span>Health</span>
+  <div class="btns">
+    <button onclick="changeStat('health', -1)">-</button>
+    <span id="health">10</span>
+    <button onclick="changeStat('health', 1)">+</button>
+  </div>
+</div>
+
+<div class="stat">
+  <span>Mana</span>
+  <div class="btns">
+    <button onclick="changeStat('mana', -1)">-</button>
+    <span id="mana">5</span>
+    <button onclick="changeStat('mana', 1)">+</button>
+  </div>
+</div>
+
+<div class="stat">
+  <span>Duelist Points</span>
+  <div class="btns">
+    <button onclick="changeStat('dp', -1)">-</button>
+    <span id="dp">20</span>
+    <button onclick="changeStat('dp', 1)">+</button>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Built for the DemplarVerse</p>
+</div>
+
+  </div>  <script>
+    const stats = {
+      health: 10,
+      mana: 5,
+      dp: 20
+    };
+
+    function changeStat(stat, change) {
+      stats[stat] += change;
+      if (stats[stat] < 0) stats[stat] = 0;
+      document.getElementById(stat).textContent = stats[stat];
+    }
+  </script></body>
+</html>
